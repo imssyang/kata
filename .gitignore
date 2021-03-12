@@ -1,2 +1,7 @@
-*.agdai
-MAlonzo/**
+# Ignore by git
+archive
+bin
+include
+libexec
+share
+
